@@ -1,4 +1,4 @@
-## GetUp Cloud - Worker
+## GetUp Cloud - Vote
 
 Esse respositório foi criado em base ao [Example Voting App](https://github.com/dockersamples/example-voting-app). A aplicação vote é um front-end é baseda em `Python` que permite votar em duas opções.
 
